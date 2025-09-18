@@ -1,3 +1,3 @@
-numb1 = 90
-bumb2 = 80
+numb1 = input()
+bumb2 = input()
 print(numb1 + numb2)
